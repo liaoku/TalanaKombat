@@ -1,0 +1,77 @@
+{
+    "personajes":
+    [
+        {
+            "nombre":"Tonyn",
+            "apellido":"Stallone",
+            "movimientos":
+            [
+                {
+                    "nombre":"Patada",
+                    "energia":1,
+                    "combinacion":"K",
+                    "especial":false,
+                    "mensaje":"da una patada"
+                },
+                {
+                    "nombre":"Puno",
+                    "energia":1,
+                    "combinacion":"P",
+                    "especial":false,
+                    "mensaje":"da un punetazo"
+                },
+                {
+                    "nombre":"Taladoken",
+                    "energia":3,
+                    "combinacion":"DSD + P" ,
+                    "especial":true,
+                    "mensaje":"usa un taladoken"
+                },
+                {
+                    "nombre":"Remuyuken",
+                    "energia":2,
+                    "combinacion":"SD + K",
+                    "especial":true,
+                    "mensaje":"usa un remuyuken"
+                }
+
+            ]
+        },
+        {
+            "nombre":"Arnaldor",
+            "apellido":"Shuatseneguer",
+            "movimientos":
+            [
+                {
+                    "nombre":"Patada",
+                    "energia":1,
+                    "combinacion":"P",
+                    "especial":false,
+                    "mensaje":"da una patada"
+                },
+                {
+                    "nombre":"Puno",
+                    "energia":1,
+                    "combinacion":"K",
+                    "especial":false,
+                    "mensaje":"da un punetazo"
+                },
+                {
+                    "nombre":"Taladoken",
+                    "energia":2,
+                    "combinacion":"ASA + P" ,
+                    "especial":true,
+                    "mensaje":"usa un taladoken"
+                },
+                {
+                    "nombre":"Remuyuken",
+                    "energia":3,
+                    "combinacion":"SA + K",
+                    "especial":true,
+                    "mensaje":"usa un remuyuken"
+                }
+
+            ]
+        }
+    ]
+}
